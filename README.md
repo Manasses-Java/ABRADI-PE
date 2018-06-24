@@ -23,11 +23,14 @@
 
 <h2>API REST<h2>
 <p>
+<ul>
 <li>Criar as tabelas</li>
-USUARIO (ID, NOME, EMAIL, SENHA, ID_TIPO_USUARIO)
-TIPO_USUARIO (ID, DESCRICAO)
-
+  <ol>
+<li>USUARIO (ID, NOME, EMAIL, SENHA, ID_TIPO_USUARIO)</li>
+<li>TIPO_USUARIO (ID, DESCRICAO)</li>
+<ol>
 <li>Criar uma API utilizando o SLIM Framework para CADASTRAR, EDITAR, PESQUISAR e EXCLUIR</li>
 
 <li>Colocar todo código no GitHub e me enviar o link</li>
+</ul>
 </p>
