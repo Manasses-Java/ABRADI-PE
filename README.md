@@ -25,7 +25,7 @@
 <p>
 <ul>
 <li>Criar as tabelas</li>
-    <ol>
+    <ol type="1">
     <li>USUARIO (ID, NOME, EMAIL, SENHA, ID_TIPO_USUARIO)</li>
     <li>TIPO_USUARIO (ID, DESCRICAO)</li>
     </ol>
