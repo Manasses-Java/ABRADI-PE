@@ -27,7 +27,7 @@
 <li>Criar as tabelas</li>
     <ol type="1">
     <li>USUARIO (ID, NOME, EMAIL, SENHA, ID_TIPO_USUARIO)</li>
-    <li>TIPO_USUARIO (ID, DESCRICAO)</li>
+    <li>TIPO_USUARIO (ID, DESCRICAO)</li><a href="https://github.com/Manasses-Java/ABRADI-PE/blob/master/scripts.sql">script</a>
     </ol>
     
 <li>Criar uma API utilizando o SLIM Framework para CADASTRAR, EDITAR, PESQUISAR e EXCLUIR</li>
